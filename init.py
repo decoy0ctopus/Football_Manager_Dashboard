@@ -18,7 +18,7 @@ from meteostat import Point, Daily
 
 # Importing the excel dataset
 
-init_dataset = pd.read_excel('C:/Users/pater/OneDrive/Education/STT/Ronseal football league dataset.xlsx')
+init_dataset = pd.read_excel('Ronseal football league dataset.xlsx')
 
 # Remove spaces from columns
 
