@@ -5,7 +5,7 @@ Created on Thu Dec  9 10:33:03 2021
 @author: patrick robinson
 
 """
-# Must run STT Task 3 Init prior to running this script to get the dataset!
+# Must run init prior to running this script to get the dataset
 
 #Import modules
 
