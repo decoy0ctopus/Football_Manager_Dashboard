@@ -11,4 +11,11 @@ Polynomial regression model to assess the relationship between scouting and came
 
 ![image](https://user-images.githubusercontent.com/64989388/166113328-f31941ae-9b27-47cf-8d92-d97dd25e8283.png)
 
+# Football Manager Dashboard.pbix
+
+Power BI dashboard visualising the data.
+
+![image](https://user-images.githubusercontent.com/64989388/166113843-b443289b-b217-40b4-8db4-a34aa93dd4e2.png)
+
+
 
